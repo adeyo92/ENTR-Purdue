@@ -146,14 +146,14 @@ i:hover {
     color: #fff;
 }
 .navbar-inner {
-    background-color: #f9f9fa;
+    background-color: #000000;
     background-image: none;
     background-repeat: repeat-x;
     border-bottom: 3px solid #e8e7ea;
     border-top: 3px solid #e8e7ea;
     -webkit-box-shadow: none
     box-shadow: none;
-    min-height: 40px;
+    min-height: 60px;
     padding: 10px 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(enabled=false)";
 }
@@ -176,7 +176,7 @@ i:hover {
             transition:all 0.2s ease-in-out 0s;    
 }
 .top-account > a.top-sign-in {
-    background-color: #e0b159;
+    background-color: none;
     background-image: none;
     color: #FFF !important;
     border: none;
